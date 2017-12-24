@@ -26,7 +26,7 @@ You can report a bug or request a feature by [opening an issue](https://github.c
 * All kind of information
 * Paths to sys interface
 * What's the content if the sys file
-* How to apply a new value
+* How to apply a new valuea
 * Make sure there are no similar feature requests already
 
 ## Download & Build
